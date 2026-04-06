@@ -1,9 +1,9 @@
+![MasterHead](https://github.com/user-attachments/assets/265b6ee7-1f50-4fe2-99a2-855110892f52)
 <h1 align="center">Hi 👋, I'm Shivranjan kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="babu.gif" width="400" src="https://github.com/5x30pm/5x30pm/blob/main/babu1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5x30pm&label=Profile%20views&color=0e75b6&style=flat" alt="5x30pm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5x30pm" alt="5x30pm" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/5x30pm" target="blank"><img src="https://img.shields.io/twitter/follow/5x30pm?logo=twitter&style=for-the-badge" alt="5x30pm" /></a> </p>
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **5x30pm@proton.me**
+
+- ⚡ Fun fact **i think i am an overthinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5x30pm&show_icons=true&locale=en&layout=compact" alt="5x30pm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5x30pm&show_icons=true&locale=en" alt="5x30pm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5x30pm&" alt="5x30pm" /></p>
 
