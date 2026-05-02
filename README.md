@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/265b6ee7-1f50-4fe2-99a2-855110892f52)
 <h1 align="center">Hi 👋, I'm Shivranjan kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="babu.gif" width="400" src="./images.gif">/images.gif">
+<img align="right" alt="babu.gif" width="400" src="./images.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5x30pm&label=Profile%20views&color=0e75b6&style=flat" alt="5x30pm" /> </p>
 
